@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(190, 237, 255);
+}
+.heading
+{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
+    color: rgb(29, 57, 68);
+    letter-spacing: 8px;
+}
+#p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    letter-spacing: 1px;
+    color: black;
+}
+label {
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 12px;
+}
+button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#camera, #result
+{
+    height: 300px;
+    border-style: double;
+    border-width: 5px;
+}
+.s{
+    font-size: 35px;
+}
+.a {
+    font-size: 26px;
+}
